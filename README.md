@@ -12,23 +12,23 @@ My name is Aruj Nayak. I am an experienced software engineer with a specializati
 - **Frameworks/Tools:**: Apache Kafka, Apache Spark, Hadoop, Git, Figma, Tableau, JUnit, Mockito, Selenium, Linux, Advanced Excel pivot tables, charting
 
 ## Projects
-### [Responsive UI](https://github.com/arujthecurator/File-Processing-S3-EC2)
+### Responsive UI | [Link](https://github.com/arujthecurator/File-Processing-S3-EC2)
 - Developed React interface for efficient data submission, integrating seamlessly with AWS EC2 for backend processing and management
 - Implemented serverless pipeline using AWS Lambda and API Gateway to automate updates to DynamoDB with file descriptions and S3 urls, significantly increasing efficiency by 60 %
 
-### [HokieFit](https://hdl.handle.net/10919/117165)
+### HokieFit | [Link](https://hdl.handle.net/10919/117165)
 - Showcased user’s top outfits, tags and suggestions through a Web Application using Scrum Methodology managing 200 RPS throughput
 - Integrated MySQL database to Spring Boot backend using JPA, enabling interaction with React.js through Redux state container
 
-### [Numeral-Aware Language Generation](https://github.com/mridulk97/numeval)
+### Numeral-Aware Language Generation | [Link](https://github.com/mridulk97/numeval)
 - Performed Few-shot prompting and Fine-tuning to LLMs(Llama-2,T5-3B) for numeral-aware headline generation
 - Achieved 47.89 Rouge-1 score on Headline generation sub-task and 63.65 accuracy for numerical-reasoning sub-task
 
-### [Retail Recommendation System](https://github.com/arujthecurator/OnlineRetailRecommendationSystem)
+### Retail Recommendation System | [Link](https://github.com/arujthecurator/OnlineRetailRecommendationSystem)
 - Developed real time recommendation system using Spark Cluster to predict additional items in retail checkout cart achieving 0.65 nDCG
 - Utilized Kafka for event-streaming and employed sequential pattern mining algorithm to predict next item in the category
 
-### [One-Shot Affordance](https://github.com/arujthecurator/One_Shot_Affordance_Detection_CS5824_ECE5424)
+### One-Shot Affordance | [Link](https://github.com/arujthecurator/One_Shot_Affordance_Detection_CS5824_ECE5424)
 - Combined 3 CNN modules to construct Y-Network for detecting common affordance in sequence of multiple Query Images and a support image
 - Utilized k-fold cross validation to evaluate the performance of Network finally achieving 0.122 MAE and IOU metric value of 0.353
 
