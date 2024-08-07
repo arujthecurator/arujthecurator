@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Aruj Nayak. I am an experienced software engineer with a specialization in building robust and scalable systems, high-scale workflows, and seamless architectures. Additionally, I am an adept ML practitioner focusing on NLP and ML pipelines. Leveraging my expertise, I aim to contribute to innovative projects and drive advancements in machine learning technologies.
+My name is Aruj Nayak. I am an experienced Software Engineer with a specialization in building robust and scalable systems, high-scale workflows, and seamless architectures. Additionally, I am an adept ML practitioner focusing on NLP and ML pipelines. Leveraging my expertise, I aim to contribute to innovative projects and drive advancements in the latest technologies.
 
 ## Skills
 - **Languages**: C++, Python, Java, JavaScript, C, R, TypeScript, MATLAB, PHP, Scala
